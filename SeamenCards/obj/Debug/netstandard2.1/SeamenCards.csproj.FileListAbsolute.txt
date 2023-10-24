@@ -1,0 +1,5 @@
+C:\Users\joeri\source\repos\SeamenCards\SeamenCards\obj\Debug\netstandard2.1\SeamenCards.csproj.AssemblyReference.cache
+C:\Users\joeri\source\repos\SeamenCards\SeamenCards\obj\Debug\netstandard2.1\SeamenCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeri\source\repos\SeamenCards\SeamenCards\obj\Debug\netstandard2.1\SeamenCards.AssemblyInfoInputs.cache
+C:\Users\joeri\source\repos\SeamenCards\SeamenCards\obj\Debug\netstandard2.1\SeamenCards.AssemblyInfo.cs
+C:\Users\joeri\source\repos\SeamenCards\SeamenCards\obj\Debug\netstandard2.1\SeamenCards.csproj.CoreCompileInputs.cache
