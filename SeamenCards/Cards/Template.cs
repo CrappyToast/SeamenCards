@@ -65,15 +65,5 @@ namespace SeamenCards.Cards
         {
             return "SeamenCards.ModInitials";
         }
-
-        public override void SetupCard(CardInfo cardInfo, Gun gun, ApplyCardStats cardStats, CharacterStatModifiers statModifiers)
-        {
-            throw new NotImplementedException();
-        }
-
-        public override void OnRemoveCard()
-        {
-            throw new NotImplementedException();
-        }
     }
 }
